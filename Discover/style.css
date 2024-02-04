@@ -55,6 +55,11 @@ body *{
 #profile img{
     width: 112px;    
     border-radius: 50%;
+    /* sombra */
+    box-shadow:
+        2.4px -3px 7.2px -2px var(--stroke-color),
+        6px -4px 29px -2px  var(--stroke-color),
+        12px -5px 80px -2px var(--stroke-color);
 }
 #profile p{
     font-weight: 500;
