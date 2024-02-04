@@ -3,7 +3,7 @@
 Bem-vindo este é um projeto de página pessoal no GitHub! Aqui, neste projeto você encontrará os principais links para redes sociais e outras paginas de informações relevantes. Sinta-se à vontade para explorar e se conectar.
 
 ## Conteúdo
-
+- [Link do projeto](#https://josucka.github.io/Explorer/)
 - [Redes Sociais](#redes-sociais)
 - [Projetos Destacados](#projetos-destacados)
 - [Contato](#contato)
